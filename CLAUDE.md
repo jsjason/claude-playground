@@ -7,3 +7,7 @@ Git과 GitHub 실습을 위한 연습 저장소입니다.
 - Git 명령어 실습 및 GitHub 워크플로우 연습이 주목적이다.
 - 복잡한 프로젝트 구조나 불필요한 설정 파일을 제안하지 않는다.
 - git 커밋 메세지는 `COMMIT_CONVENTION.md`의 규칙을 따른다: `[<type>] <subject>` 형식으로 작성한다.
+- Claude가 관여한 커밋에는 본문 끝에 다음 트레일러를 추가한다:
+  ```
+  Co-authored-by: Claude <noreply@anthropic.com>
+  ```
