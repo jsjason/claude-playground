@@ -1,5 +1,5 @@
-안녕하십니까, 6월 10일 오늘의 날씨를 전해드리겠습니다.
-현재 전국 대부분 지역은 맑은 하늘과 함께 초여름의 따뜻한 햇살이 이어지고 있습니다.
-서울의 낮 최고 기온은 27도까지 오르겠으며, 자외선 지수가 높으니 외출 시 자외선 차단에 유의하시기 바랍니다.
-내륙 지방을 중심으로 오후 늦게 소나기가 내리는 곳이 있겠으니 우산을 챙기시는 것이 좋겠습니다.
-이상 날씨였습니다. 건강하고 활기찬 하루 보내십시오.
+Good day, here is your weather forecast for June 10th.
+Clear skies are covering most of the country, with warm early-summer sunshine throughout the day.
+Seoul will see a high of 27°C, and UV levels will be strong, so be sure to apply sunscreen before heading out.
+There is a chance of brief showers in inland areas during the late afternoon, so you may want to keep an umbrella handy.
+That's all for today's weather. Have a healthy and wonderful day.
